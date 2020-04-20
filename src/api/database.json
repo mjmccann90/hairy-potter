@@ -1,0 +1,49 @@
+{
+  "Pottery": [
+    {
+      "shape": "Triangle",
+      "weight": 1,
+      "height": 1,
+      "temperature": 2201,
+      "fired": true,
+      "cracked": true,
+      "id": 1
+    },
+    {
+      "shape": "Trapezoid",
+      "weight": 2,
+      "height": 2,
+      "temperature": 1200,
+      "fired": true,
+      "cracked": false,
+      "id": 2
+    },
+    {
+      "shape": "Nonagon",
+      "weight": 3,
+      "height": 3,
+      "temperature": 2333,
+      "fired": true,
+      "cracked": true,
+      "id": 3
+    },
+    {
+      "shape": "Octagon",
+      "weight": 4,
+      "height": 4,
+      "temperature": 2000,
+      "fired": true,
+      "cracked": false,
+      "id": 4
+    },
+    {
+      "shape": "Hexagon",
+      "weight": 4,
+      "height": 4,
+      "temperature": 200,
+      "fired": true,
+      "cracked": false,
+      "id": 4
+    }
+  ]
+}
