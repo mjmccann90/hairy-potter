@@ -135,3 +135,4 @@ Then look at your terminal window that is running the tests and make sure that t
 Once all of your tests pass, this will be the output of the terminal that is running the tests.
 
 ![](./jest-test-run.gif)
+# hairy-potter
