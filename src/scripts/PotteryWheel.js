@@ -1,10 +1,14 @@
 let multiplePots = []
 
-export const makePottery = (shape, height, weight) => {
+export const makePottery = (shape, height, weight, temperature) => {
     const constructNewPot = {
         shape: shape,
         height: height,
-        weight: weight
+        weight: weight,
+        temperature: temperature,
+        fired: false,
+        cracked: fasle,
+
 
     }
     return fetch('http://localhost:8088/Pottery', {
